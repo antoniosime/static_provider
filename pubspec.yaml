@@ -1,8 +1,7 @@
 name: static_provider
 description: Flutter state management package.
 version: 0.0.1
-author: Antonio Simeonovski <antoniosimeonovski@gmail.com>
-homepage:
+homepage: https://github.com/antoniosime/static_provider
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
