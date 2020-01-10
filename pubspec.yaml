@@ -1,4 +1,4 @@
-name: static_provider
+name: s_provider
 description: Flutter state management package.
 version: 0.0.1
 homepage: https://github.com/antoniosime/static_provider

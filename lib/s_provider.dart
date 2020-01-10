@@ -1,4 +1,4 @@
-library static_provider;
+library memory_provider;
 
 import 'dart:collection';
 
